@@ -6,3 +6,5 @@ temp-sensor.xdke
 xdk/project-info.json
 
 *.zip
+
+*.png
