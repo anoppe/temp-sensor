@@ -1,0 +1,8 @@
+
+*.xdk
+
+temp-sensor.xdke
+
+xdk/project-info.json
+
+*.zip

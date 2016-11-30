@@ -1,0 +1,16 @@
+{
+  "name": "DigitalRead",
+  "description": "",
+  "version": "0.0.0",
+  "main": "main.js",
+  "engines": {
+    "node": ">=0.10.0"
+  },
+  "dependencies": {
+    "influx": "^5.0.0-alpha.4",
+    "ubidots": "0.0.4"
+  },
+  "devDependencies": {
+    "grunt": "^1.0.1"
+  }
+}
